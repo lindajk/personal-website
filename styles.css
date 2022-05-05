@@ -1,0 +1,20 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  padding: 16px;
+  background-color: bisque;
+}
+
+.navi {
+  padding: 8px;
+  background-color: b;
+  border: solid;
+  border-color: black;
+  text-decoration: none;
+}
+
+.image {
+  height: 10cm;
+}
