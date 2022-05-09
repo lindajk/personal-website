@@ -59,6 +59,7 @@ img {
 .linkedin {
   display: flex;
   justify-content: center;
+  height:1cm;
 }
 
 footer {
