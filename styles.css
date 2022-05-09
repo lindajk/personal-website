@@ -51,7 +51,7 @@ h2 {
 }
 
 #images {
-  height: 10cm;
+  height: 9cm;
   display: flex;
   justify-content: center;
   gap: 5px;
