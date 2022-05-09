@@ -6,9 +6,10 @@ body{
   background-color: cornsilk;
 }
 
-p {
+.description {
   display: flex;
   justify-content: center;
+  text-align:center;
 }
 
 nav {
