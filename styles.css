@@ -2,14 +2,14 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-body{
+body {
   background-color: cornsilk;
 }
 
 .description {
   display: flex;
   justify-content: center;
-  text-align:center;
+  text-align: center;
 }
 
 nav {
@@ -41,8 +41,8 @@ h1 {
   background-color: rgb(227, 219, 179);
 }
 
-main{
-  margin: 30px;px;
+main {
+  margin: 30px;
 }
 
 h2 {
@@ -63,7 +63,7 @@ img {
 .linkedin {
   display: flex;
   justify-content: center;
-  height:1cm;
+  height: 1cm;
 }
 
 footer {
