@@ -11,8 +11,8 @@ p {
 nav {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
   padding: 8px;
-  flex-direction: column;
   gap: 0.1cm;
 }
 
@@ -24,17 +24,21 @@ nav {
   color: black;
   text-decoration: none;
   width: 3.5cm;
-}
-
-main {
-  margin: -340px 8px;
-  padding: 8px 8px 8px 180px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 h1 {
   display: flex;
   justify-content: center;
-  padding: 8px 8px 8px 180px;
+  margin: 0px 0px 30px 0px;
+  padding: 1cm;
+  background-color: rgb(227, 219, 179);
+}
+
+main{
+  margin: 30px;px;
 }
 
 h2 {
@@ -55,12 +59,10 @@ img {
 .linkedin {
   display: flex;
   justify-content: center;
-  margin: 20px 8px;
 }
 
 footer {
   display: flex;
   justify-content: center;
-  padding: 300px 8px 8px 180px;
-  margin: 40px 8px;
+  margin: 30px;
 }
