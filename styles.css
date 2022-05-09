@@ -3,7 +3,7 @@
   background-color: cornsilk;
 }
 
-h1 {
+p {
   display: flex;
   justify-content: center;
 }
@@ -27,7 +27,14 @@ nav {
 }
 
 main {
-  padding: 8px 8px 8px 17px;
+  margin: -340px 8px;
+  padding: 8px 8px 8px 180px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding: 8px 8px 8px 180px;
 }
 
 h2 {
@@ -35,11 +42,25 @@ h2 {
   justify-content: center;
 }
 
-.image {
+img {
   height: 10cm;
+}
+
+#images {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.linkedin {
+  display: flex;
+  justify-content: center;
+  margin: 20px 8px;
 }
 
 footer {
   display: flex;
   justify-content: center;
+  padding: 300px 8px 8px 180px;
+  margin: 40px 8px;
 }
